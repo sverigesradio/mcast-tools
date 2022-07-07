@@ -1044,7 +1044,3 @@ dkms.conf
 # Raspberry Pi Pico disassembler file
 *.dis
 
-# vcxproj
-*.vcxproj
-*.vcxproj.filters
-
